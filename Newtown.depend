@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625803196 source:/home/student/Desktop/Newtown/main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
